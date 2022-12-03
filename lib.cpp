@@ -8,5 +8,6 @@ bool numprimi (int a) {
     }
   }
   risultato=0;
+  
   return risultato;
 }
